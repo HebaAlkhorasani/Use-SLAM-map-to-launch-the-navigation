@@ -15,7 +15,7 @@ $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/m
 ```
 4. Click the 2D Pose Estimate button in the RViz menu.
 5. Click on the map where the actual robot is located and drag the large green arrow toward the direction where the robot is facing.
-6. Repeat step 1 and 2 until the LDS sensor data is overlayed on the saved map.
+6. Repeat steps 1 and 2 until the LDS sensor data is overlayed on the saved map.
 
 ![](Initial_Pose_Estimation.PNG)
 
@@ -27,5 +27,5 @@ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 ![](Collect_environment_information.PNG)
 
 9. Close the keyboard teleoperation node.
-10. Start navigating by clicking " 2D Nav Goal " button, and select the position from RViz:
-![](Navigation_Output.mp4)
+10. Start navigating by clicking the " 2D Nav Goal " button, and select the position from RViz:
+![](Navigation_Output.MP4)
