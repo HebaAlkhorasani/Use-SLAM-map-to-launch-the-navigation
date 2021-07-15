@@ -24,7 +24,7 @@ $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/m
 roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 ```
 8. Move the robot back and forth a bit to collect the surrounding environment information until the tiny green dots become like this:
-![](collect_the_environment_information.PNG)
+![](Collect_environment_information.PNG)
 
 9. Close the keyboard teleoperation node.
 10. Start navigating by clicking " 2D Nav Goal " button, and select the position from RViz:
