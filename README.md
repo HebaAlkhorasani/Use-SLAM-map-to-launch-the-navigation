@@ -28,4 +28,4 @@ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 
 9. Close the keyboard teleoperation node.
 10. Start navigating by clicking the " 2D Nav Goal " button, and select the position from RViz:
-![](Navigation_Output.MP4)
+![caption](Navigation_Output/mp4)
